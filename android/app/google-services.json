@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "835455763286",
+    "firebase_url": "https://gok-shopping-app.firebaseio.com",
+    "project_id": "gok-shopping-app",
+    "storage_bucket": "gok-shopping-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835455763286:android:548a04db3ea02bcfa88cf7",
+        "android_client_info": {
+          "package_name": "com.gok_shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835455763286-7jphhtgh1k0s0gohd4bi4r03m7gifkll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gok_shopping_app",
+            "certificate_hash": "4f8a2974be775b66f7e3c414c76ce289d2d5889b"
+          }
+        },
+        {
+          "client_id": "835455763286-4sltq3qj2trjcg6g7pbq5krqdmdibr69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOP29TVFu6USZ4eDeC3ORGPJ8Lv-Vt3MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835455763286-4sltq3qj2trjcg6g7pbq5krqdmdibr69.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
